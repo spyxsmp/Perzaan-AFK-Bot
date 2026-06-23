@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "hi",
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "spyxsmp.exaroton.me",
+    "port": 59485,
+    "version": "1.21.8"
   },
   "position": {
     "enabled": true,
